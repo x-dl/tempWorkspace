@@ -1,0 +1,3 @@
+../Core/Inc/arm_nnsupportfunctions.h:206:23:read_and_pad_reordered_int2	9
+../Core/nn/ConvolutionFunctions/arm_nn_mat_mult_kernel_int2_int16_reordered.c:46:15:int2_quant	4
+../Core/nn/ConvolutionFunctions/arm_nn_mat_mult_kernel_int2_int16_reordered.c:88:13:arm_nn_mat_mult_kernel_int2_int16_reordered	4

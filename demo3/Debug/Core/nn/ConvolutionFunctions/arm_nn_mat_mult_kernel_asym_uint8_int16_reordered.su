@@ -1,0 +1,3 @@
+../Core/Inc/arm_nnsupportfunctions.h:237:23:read_and_pad_reordered_uint8	56	static,ignoring_inline_asm
+../Core/Inc/arm_nnsupportfunctions.h:251:25:__HI_SMULL	24	static,ignoring_inline_asm
+../Core/nn/ConvolutionFunctions/arm_nn_mat_mult_kernel_asym_uint8_int16_reordered.c:57:10:arm_nn_mat_mult_kernel_asym_uint8_int16_reordered	328	static,ignoring_inline_asm

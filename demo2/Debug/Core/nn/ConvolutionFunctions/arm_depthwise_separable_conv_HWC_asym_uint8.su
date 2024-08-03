@@ -1,0 +1,2 @@
+../Core/Inc/arm_nnsupportfunctions.h:251:25:__HI_SMULL	24	static,ignoring_inline_asm
+../Core/nn/ConvolutionFunctions/arm_depthwise_separable_conv_HWC_asym_uint8.c:74:12:arm_depthwise_separable_conv_HWC_asym_uint8	464	static,ignoring_inline_asm

@@ -1,0 +1,3 @@
+../Core/Inc/arm_nnsupportfunctions.h:182:23:read_and_pad_reordered_int4	144	static,ignoring_inline_asm
+../Core/nn/ConvolutionFunctions/arm_nn_mat_mult_kernel_int4_int16_reordered.c:46:15:int4_quant	24	static
+../Core/nn/ConvolutionFunctions/arm_nn_mat_mult_kernel_int4_int16_reordered.c:143:13:arm_nn_mat_mult_kernel_int4_int16_reordered	376	static,ignoring_inline_asm
